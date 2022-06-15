@@ -20,9 +20,15 @@ HTML | CSS | Javascript
 #
 <a name='preview'></a>
 
-### Preview
+## Preview
 
-![image](https://user-images.githubusercontent.com/92955084/159353019-d43957ee-ef72-46b8-8df1-99999dd067d8.png)
+### Home
+
+![image](https://user-images.githubusercontent.com/92955084/173728822-c644ff7f-ed6e-4947-8a88-f2873f7752f4.png)
+
+### Project Details
+
+![image](https://user-images.githubusercontent.com/92955084/173728868-5f7f9117-e8e4-46f7-aa35-3ed815f69767.png)
 
 #
 <a name='url'></a>
